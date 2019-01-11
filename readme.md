@@ -1,4 +1,4 @@
-#Jungle Chess 
+# Jungle Chess  
 Final project for *Introduction to Java Programming* Fall 2016.  
 
 ----------
